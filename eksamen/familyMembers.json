@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Silje",
+        "age": "26",
+        "city": "Sogndal"
+    },
+    {
+        "name": "Vidar",
+        "age": "40",
+        "city": "Sogndal"
+    },
+    {
+        "name": "Ruth",
+        "age": "24",
+        "city": "Hamar"
+    },
+    {
+        "name": "Rutil",
+        "age": "15",
+        "city": "Lillehammer"
+    },
+    {
+        "name": "Leidulf",
+        "age": "30",
+        "city": "Stange"
+    },
+    {
+        "name": "Magnus",
+        "age": "28",
+        "city": "Sogndal"
+    },
+    {
+        "name": "Vibekke",
+        "age": "22",
+        "city": "Sogndal"
+    },
+    {
+        "name": "Andreas",
+        "age": "29",
+        "city": "Bergen"
+    },
+    {
+        "name": "Heidi",
+        "age": "28",
+        "city": "bergen"
+    },
+    {
+        "name": "Haakon",
+        "age": "32",
+        "city": "Os"
+    },
+    {
+        "name": "Marianne",
+        "age": "31",
+        "city": "Osteroy"
+    },
+    {
+        "name": "Aleksander",
+        "age": "16",
+        "city": "Elverum"
+    },
+    {
+        "name": "Rita",
+        "age": "50",
+        "city": "Aurskog"
+    },
+    {
+        "name": "Oyvind",
+        "age": "65",
+        "city": "Oslo"
+    },
+    {
+        "name": "Torill",
+        "age": "70",
+        "city": "Foldal"
+    },
+    {
+        "name": "Ragnar",
+        "age": "24",
+        "city": "Hamar"
+    },
+    {
+        "name": "Mina",
+        "age": "22",
+        "city": "Porsgrunn"
+    },
+    {
+        "name": "Magne",
+        "age": "55",
+        "city": "Bergen"
+    },
+    {
+        "name": "Louis",
+        "age": "1",
+        "city": "Froland"
+    },
+    {
+        "name": "Birte",
+        "age": "10",
+        "city": "Sogndal"
+    }
+]
